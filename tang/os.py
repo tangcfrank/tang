@@ -30,3 +30,5 @@ print(os.sep)
 print(os.name)'''
 
 #os.path
+for each in range(10):
+    print('姗姗你好!')
